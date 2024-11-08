@@ -1,0 +1,6 @@
+venv
+component-version-lambda.iml
+.idea
+__pycache__
+.DS_STORE
+component-version-lambda.zip
